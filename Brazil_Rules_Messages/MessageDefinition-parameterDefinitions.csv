@@ -1,0 +1,5 @@
+[OPERATOR],externalCode,parameterDefinitions.dateType,parameterDefinitions.externalCode,parameterDefinitions.externalName,parameterDefinitions.status
+Supported operators: Delimit Clear,MessageDefinition.externalCode,dateType(Valid Values : STRING/NUMBER/AUTO_NUMBER/DECIMAL/BOOLEAN/DATE/DATETIME/TIME/PICK_LIST/LOCALIZED/DATA_SOURCE/ENUM/GO/FO/ATTACHMENT/USER/CLOB/AUTO_COMPLETE   STRING for String  NUMBER for Number  AUTO_NUMBER for Auto Number  DECIMAL for Decimal  BOOLEAN for Boolean  DATE for Date  DATETIME for DateTime  TIME for Time  PICK_LIST for Picklist  LOCALIZED for Translatable  DATA_SOURCE for Data Source  ENUM for Enum  GO for Generic Object  FO for Foundation Object  ATTACHMENT for Attachment  USER for User  CLOB for CLOB  AUTO_COMPLETE for Auto Complete  ),externalCode,externalName,status(Valid Values : A/I   A for Active  I for InActive  )
+,"BRA_PIS_INVALID","STRING","BRA_REG_EX_ERR","BRA_REG_EX_ERR","A"
+,"BRA_PIS_INVALID_CD","STRING","BRA_CD_ERR","BRA_CD_ERR","A"
+,"BRA_PIS_ZERO","STRING","BRA_ZERO_ERR","BRA_ZERO_ERR","A"

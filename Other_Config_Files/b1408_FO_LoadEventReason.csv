@@ -1,0 +1,180 @@
+"externalCode","end-date","start-date","name","description","status","event","emplStatus"
+"externalCode","end-date","start-date","name","description","status","Event","Employee Status"
+"CONCRJOB","12/31/9999","01/01/1900","Additional Job",,"ACTIVE","Additional Job","Active"
+"EXPATBGN","12/31/9999","01/01/1900","Foreign Expatriate Assignment",,"ACTIVE","Assignment","Active"
+"INPATBGN","12/31/9999","01/01/1900","Foreign Inpatriate Assignment",,"ACTIVE","Assignment","Active"
+"ASSGCOMP","12/31/9999","01/01/1900","Assignment Completion",,"ACTIVE","Assignment Completion","Terminated"
+"PRCPRC","12/31/9999","01/01/1900","Probation Completed",,"ACTIVE","Completion of Probation",
+"PAYBENRT","12/31/9999","01/01/1900","Benefits Base Update",,"ACTIVE","Data Change",
+"DTACHBU","12/31/9999","01/01/1900","Business Unit Change",,"ACTIVE","Data Change",
+"DATACONV","12/31/9999","01/01/1900"," Initial Conversion Load",,"ACTIVE","Data Change",
+"PAYTGTCM","12/31/9999","01/01/1900","Change Quota/Target Comm",,"ACTIVE","Data Change",
+"PAYCHANGE","12/31/9999","01/01/1900","Correction-Pay Rate",,"ACTIVE","Data Change",
+"DATASTAT","12/31/9999","01/01/1900","Correction - Status",,"ACTIVE","Data Change",
+"DATACHG","12/31/9999","01/01/1900","Data Change",,"ACTIVE","Data Change",
+"DATACURR","12/31/9999","01/01/1900","Currency Conversion",,"ACTIVE","Data Change",
+"DATADEPT","12/31/9999","01/01/1900","Data Change / Dept Name Change",,"ACTIVE","Data Change",
+"JOBHOURS","12/31/9999","01/01/1900","Standard Hours Changed",,"ACTIVE","Data Change",
+"DATAREORG","12/31/9999","01/01/1900","Reorganization",,"ACTIVE","Data Change",
+"JOBSHIFT","12/31/9999","01/01/1900","Shift Change",,"ACTIVE","Data Change",
+"JOBSUPRV","12/31/9999","01/01/1900","Supervisor Change Only",,"ACTIVE","Data Change",
+"DEMONPAY","12/31/9999","01/01/1900","Demotion - No Pay Change",,"ACTIVE","Demotion",
+"DEMORPAY","12/31/9999","01/01/1900","Demotion - Pay Change",,"ACTIVE","Demotion",
+"DEMOLGRD","12/31/9999","01/01/1900","Demotion- Change to lower Grade",,"ACTIVE","Demotion",
+"DEMOPERF","12/31/9999","01/01/1900","Demotion - Unsatisfactory Perf",,"ACTIVE","Demotion",
+"LOFRED","12/31/9999","01/01/1900","Staff Reduction",,"ACTIVE","Furlough","Furlough"
+"LOFSEA","12/31/9999","01/01/1900","Seasonal Closure",,"ACTIVE","Furlough","Furlough"
+"LOFSLO","12/31/9999","01/01/1900","Layoff / Strike/Lock-out",,"ACTIVE","Furlough","Furlough"
+"LOFTMP","12/31/9999","01/01/1900","Temporary Closure",,"ACTIVE","Furlough","Furlough"
+"HIRACQRE","12/31/9999","01/01/1900","Acquired employee",,"ACTIVE","Hire","Active"
+"HIRAFFIL","12/31/9999","01/01/1900","Hired from Affiliate",,"ACTIVE","Hire","Active"
+"HIRINTNL","12/31/9999","01/01/1900","Internal International Transfer",,"ACTIVE","Hire","Active"
+"HIRPARNT","12/31/9999","01/01/1900","Loan from Parent Company",,"ACTIVE","Hire","Active"
+"HIRNEW","12/31/9999","01/01/1900","New Hire",,"ACTIVE","Hire","Active"
+"JOBLGRAD","12/31/9999","01/01/1900","Job Change to lower grade",,"ACTIVE","Job Change",
+"JOBTITLE","12/31/9999","01/01/1900","Data Change / Job Title Update",,"ACTIVE","Job Change",
+"JOBLATRL","12/31/9999","01/01/1900","Job Change - Lateral",,"ACTIVE","Job Change",
+"JOBLOCN","12/31/9999","01/01/1900","Location Change",,"ACTIVE","Job Change",
+"JOBUGRDE","12/31/9999","01/01/1900","Job Change to Higher Grade",,"ACTIVE","Job Change",
+"JOBEMPCL","12/31/9999","01/01/1900","Change of Employee Class",,"ACTIVE","Job Change",
+"JOBFTPT","12/31/9999","01/01/1900","Full-time to Part-Time",,"ACTIVE","Job Change",
+"JOBPTFT","12/31/9999","01/01/1900","Part-time to Full-Time",,"ACTIVE","Job Change",
+"JOBRECLS","12/31/9999","01/01/1900","Job Reclassification ",,"ACTIVE","Job Reclassification",
+"JOBGRADE","12/31/9999","01/01/1900","Pay Grade Change",,"ACTIVE","Job Reclassification",
+"JOBLCLTT","12/31/9999","01/01/1900","Local Job Title Change",,"ACTIVE","Job Reclassification",
+"LOACAFRA","12/31/9999","01/01/1900","California Family Rights Act",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAEDUCN","12/31/9999","01/01/1900","Education",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAFAMLY","12/31/9999","01/01/1900","Family Leave Birth/Adoption",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAFMLA","12/31/9999","01/01/1900","Family and Medical Leave Act",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAFMS","12/31/9999","01/01/1900","Family Leave Serious Illness",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAHEA","12/31/9999","01/01/1900","Health Reasons",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOALOA","12/31/9999","01/01/1900","Leave of Absence",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOALTD","12/31/9999","01/01/1900","Long Term Disability",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAMAT","12/31/9999","01/01/1900","Unpaid Maternity/Paternity Leave",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAPMAT","12/31/9999","01/01/1900","Paid Maternity/Paternity Leave",,"ACTIVE","Leave of Absence","Paid Leave"
+"LOAMDO","12/31/9999","01/01/1900","Medical Unpaid Leave",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAMIL","12/31/9999","01/01/1900","Military Service",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOANQD","12/31/9999","01/01/1900","Not Qualified For Disability",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAOUP","12/31/9999","01/01/1900","Other Unpaid Leave",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAPAR","12/31/9999","01/01/1900","Parental Leave",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAPER","12/31/9999","01/01/1900","Personal Leave",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAPTD","12/31/9999","01/01/1900","Partial/Total Disability",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAUSH","12/31/9999","01/01/1900","Unpaid Statutory Holiday",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LOAWCP","12/31/9999","01/01/1900","Workers Compensation",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LTDLTD","12/31/9999","01/01/1900","Long Term Disability With Pay",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"LTOLTO","12/31/9999","01/01/1900","Long Term Disability",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"PLAFMP","12/31/9999","01/01/1900","Partial Family Leave",,"ACTIVE","Leave of Absence","Paid Leave"
+"PLAFST","12/31/9999","01/01/1900","STD / FMLA Concurrent",,"ACTIVE","Leave of Absence","Paid Leave"
+"PLAJUR","12/31/9999","01/01/1900","Jury Leave",,"ACTIVE","Leave of Absence","Paid Leave"
+"PLALTD","12/31/9999","01/01/1900","Long-Term Disability",,"ACTIVE","Leave of Absence","Paid Leave"
+"PLAMAT","12/31/9999","01/01/1900","Maternity/Paternity - INTL",,"ACTIVE","Leave of Absence","Paid Leave"
+"PLAMIL","12/31/9999","01/01/1900","Military Service",,"ACTIVE","Leave of Absence","Paid Leave"
+"PLAOST","12/31/9999","01/01/1900","Other Paid Leave",,"ACTIVE","Leave of Absence","Paid Leave"
+"PLAPED","12/31/9999","01/01/1900","Education Leave",,"ACTIVE","Leave of Absence","Paid Leave"
+"PLASAB","12/31/9999","01/01/1900","Sabbatical Leave",,"ACTIVE","Leave of Absence","Paid Leave"
+"PLASTD","12/31/9999","01/01/1900","Short Term Disability",,"ACTIVE","Leave of Absence","Paid Leave"
+"PLASTP","12/31/9999","01/01/1900","Partial Medical",,"ACTIVE","Leave of Absence","Paid Leave"
+"LEADISPY","12/31/9999","01/01/1900","Short Term Disability With Pay",,"ACTIVE","Leave of Absence","Paid Leave"
+"LEASTDNP","12/31/9999","01/01/1900","Short Term Disability",,"ACTIVE","Leave of Absence","Unpaid Leave"
+"PAYCARALL","12/31/9999","01/01/1900","Change Car Allowance",,"ACTIVE","Pay Rate Change",
+"PAYADJ","12/31/9999","01/01/1900","Adjustment to Minimum",,"ACTIVE","Pay Rate Change",
+"PAYATB","12/31/9999","01/01/1900","Across-The-Board",,"ACTIVE","Pay Rate Change",
+"PAYBBO","12/31/9999","01/01/1900","Bonus Buyout",,"ACTIVE","Pay Rate Change",
+"PAYBEN","12/31/9999","01/01/1900","Benefits Adjustment",,"ACTIVE","Pay Rate Change",
+"PAYCOL","12/31/9999","01/01/1900","Cost-of Living Adjustment",,"ACTIVE","Pay Rate Change",
+"PAYCPC","12/31/9999","01/01/1900","Career Path Change",,"ACTIVE","Pay Rate Change",
+"PAYCPR","12/31/9999","01/01/1900","Pay Rate Correction",,"ACTIVE","Pay Rate Change",
+"PAYDEM","12/31/9999","01/01/1900","Demotion with Pay Change",,"ACTIVE","Pay Rate Change",
+"PAYEOC","12/31/9999","01/01/1900","ECF - Out of Cycle Pay Change",,"ACTIVE","Pay Rate Change",
+"PAYEQT","12/31/9999","01/01/1900","Internal Equity",,"ACTIVE","Pay Rate Change",
+"PAYFRQ","12/31/9999","01/01/1900","Comp Frequency Change",,"ACTIVE","Pay Rate Change",
+"PAYLAT","12/31/9999","01/01/1900","Job Change Lateral",,"ACTIVE","Pay Rate Change",
+"PAYLMP","12/31/9999","01/01/1900","Lump Sum Merit Increase",,"ACTIVE","Pay Rate Change",
+"PAYMER","12/31/9999","01/01/1900","Merit",,"ACTIVE","Pay Rate Change",
+"PAYMEZ","12/31/9999","01/01/1900","Merit - No Increase",,"ACTIVE","Pay Rate Change",
+"PAYMGI","12/31/9999","01/01/1900","Mandatory Govt Increase",,"ACTIVE","Pay Rate Change",
+"PAYMKT","12/31/9999","01/01/1900","Market Adjustment",,"ACTIVE","Pay Rate Change",
+"PAYMLA","12/31/9999","01/01/1900","Military Leave Adjustment",,"ACTIVE","Pay Rate Change",
+"PAYOOC","12/31/9999","01/01/1900","OOC/ACR Merit",,"ACTIVE","Pay Rate Change",
+"PAYOTH","12/31/9999","01/01/1900","Other Adjustment",,"ACTIVE","Pay Rate Change",
+"PAYPRO","12/31/9999","01/01/1900","Promotion",,"ACTIVE","Pay Rate Change",
+"PAYREC","12/31/9999","01/01/1900","Job Reclassification",,"ACTIVE","Pay Rate Change",
+"PAYRET","12/31/9999","01/01/1900","Retention Bonus",,"ACTIVE","Pay Rate Change",
+"PAYSCP","12/31/9999","01/01/1900","Sales Comp Plan Change",,"ACTIVE","Pay Rate Change",
+"PAYSHF","12/31/9999","01/01/1900","WFR - SHIFT Adjustment",,"ACTIVE","Pay Rate Change",
+"PAYSPG","12/31/9999","01/01/1900","Step Progression",,"ACTIVE","Pay Rate Change",
+"PAYTCC","12/31/9999","01/01/1900","Total Cash Comp Restructure",,"ACTIVE","Pay Rate Change",
+"PAYXFR","12/31/9999","01/01/1900","Transfer",,"ACTIVE","Pay Rate Change",
+"PAYBON","12/31/9999","01/01/1900","Change Bonus Amount",,"ACTIVE","Pay Rate Change",
+"POSINA","12/31/9999","01/01/1900","Position Inactivated",,"ACTIVE","Position Change",
+"POSJRC","12/31/9999","01/01/1900","Job Re-Classification",,"ACTIVE","Position Change",
+"POSNEW","12/31/9999","01/01/1900","New Position",,"ACTIVE","Position Change",
+"POSREO","12/31/9999","01/01/1900","Re-Organization",,"ACTIVE","Position Change",
+"POSSTA","12/31/9999","01/01/1900","Position Status Change",,"ACTIVE","Position Change",
+"POSTTL","12/31/9999","01/01/1900","Title Change",,"ACTIVE","Position Change",
+"POSUPD","12/31/9999","01/01/1900","Position Data Update",,"ACTIVE","Position Change",
+"POSXFR","12/31/9999","01/01/1900","Transfer",,"ACTIVE","Position Change",
+"PRBPRB","12/31/9999","01/01/1900","On Probation",,"ACTIVE","Probation",
+"PRONCP","12/31/9999","01/01/1900","Normal Career Progression",,"ACTIVE","Promotion",
+"PROOPR","12/31/9999","01/01/1900","Outstanding Performance",,"ACTIVE","Promotion",
+"PROPNP","12/31/9999","01/01/1900","Promotion - No Pay Change",,"ACTIVE","Promotion",
+"PROPWP","12/31/9999","01/01/1900","Promotion - Pay Change",,"ACTIVE","Promotion",
+"REHACQ","12/31/9999","01/01/1900","Rehire - Acquisition",,"ACTIVE","Rehire","Active"
+"REHINT","12/31/9999","01/01/1900","Internal Int'l Transfer",,"ACTIVE","Rehire","Active"
+"REHREH","12/31/9999","01/01/1900","Rehire",,"ACTIVE","Rehire","Active"
+"REHTMP","12/31/9999","01/01/1900"," Temporary Assignment",,"ACTIVE","Rehire","Active"
+"REHTTP","12/31/9999","01/01/1900","Temporary to Permanent",,"ACTIVE","Rehire","Active"
+"R2WORK","12/31/9999","01/01/1900","Reinstatement from WFR",,"ACTIVE","Return to Work","Active"
+"RECREC","12/31/9999","01/01/1900"," Recall from Suspension/Layoff",,"ACTIVE","Return to Work","Active"
+"RETDISAB","12/31/9999","01/01/1900","Return From Disability",,"ACTIVE","Return to Work","Active"
+"RETLEAVE","12/31/9999","01/01/1900","Return From Leave",,"ACTIVE","Return to Work","Active"
+"SUSDISCP","12/31/9999","01/01/1900","Suspension",,"ACTIVE","Suspension","Suspended"
+"TERERLRT","12/31/9999","01/01/1900","Early Retirement",,"ACTIVE","Termination","Retired"
+"TERRTMNT","12/31/9999","01/01/1900","Normal Retirement",,"ACTIVE","Termination","Retired"
+"TERIATTD","12/31/9999","01/01/1900","Inv Attendance",,"ACTIVE","Termination","Terminated"
+"TERVWLB","12/31/9999","01/01/1900","Vol - Workk Life Balance",,"ACTIVE","Termination","Terminated"
+"TERVCAR","12/31/9999","01/01/1900","Vol Career Development",,"ACTIVE","Termination","Terminated"
+"TERVCOMP","12/31/9999","01/01/1900","Vol Resignation to Competitor",,"ACTIVE","Termination","Terminated"
+"TERICOND","12/31/9999","01/01/1900","Inv Termintion- Misconduct",,"ACTIVE","Termination","Terminated"
+"TERIDEAT","12/31/9999","01/01/1900","Death",,"ACTIVE","Termination","Terminated"
+"TERIDISH","12/31/9999","01/01/1900","Inv Termination -  Dishonesty",,"ACTIVE","Termination","Terminated"
+"TERIDIVS","12/31/9999","01/01/1900","Inv Termination -  Divestment",,"ACTIVE","Termination","Terminated"
+"TERIREDN","12/31/9999","01/01/1900","Inv Elimination of Position",,"ACTIVE","Termination","Terminated"
+"TERVERL","12/31/9999","01/01/1900","Vol Termination - Early Retiremt",,"ACTIVE","Termination","Terminated"
+"TERIDISB","12/31/9999","01/01/1900","Inv Termination -  Extended LOA",,"ACTIVE","Termination","Terminated"
+"TERIAWOL","12/31/9999","01/01/1900","Inv Termination - Fail To Report",,"ACTIVE","Termination","Terminated"
+"TERVHLTH","12/31/9999","01/01/1900","Vol Termination - Health Reasons",,"ACTIVE","Termination","Terminated"
+"TERIINSB","12/31/9999","01/01/1900","Inv Termination - Insubordinate",,"ACTIVE","Termination","Terminated"
+"TERVMARG","12/31/9999","01/01/1900","Vol Termination - Marriage",,"ACTIVE","Termination","Terminated"
+"TERICOMP","12/31/9999","01/01/1900","Vol Termination - Compensation",,"ACTIVE","Termination","Terminated"
+"TERVPERS","12/31/9999","01/01/1900","Vol Termination - Personal",,"ACTIVE","Termination","Terminated"
+"TERINONP","12/31/9999","01/01/1900","Inv Termination  Non-Performance",,"ACTIVE","Termination","Terminated"
+"TERIREDU","12/31/9999","01/01/1900","Inv Termination - RIF",,"ACTIVE","Termination","Terminated"
+"TERVSCHOL","12/31/9999","01/01/1900","Vol Terminaton - School",,"ACTIVE","Termination","Terminated"
+"TERVASGN","12/31/9999","01/01/1900","Vol Termination - Assignment",,"ACTIVE","Termination","Terminated"
+"TERTVTERM","12/31/9999","01/01/1900","Vol Termination -  Other",,"ACTIVE","Termination","Terminated"
+"TERVVSP","12/31/9999","01/01/1900","Voluntary Separation Program",,"ACTIVE","Termination","Terminated"
+"TERIRSTR","12/31/9999","01/01/1900","Inv Termination - Restructuring",,"ACTIVE","Termination","Terminated"
+"TERITWBN","12/31/9999","01/01/1900","Terminated With Benefits",,"ACTIVE","Termination","Terminated"
+"TERITWPY","12/31/9999","01/01/1900","Termination With Pay",,"ACTIVE","Termination","Terminated"
+"TEROTH","12/31/9999","01/01/1900","Termination - Other",,"ACTIVE","Termination","Terminated"
+"TRANCONV","12/31/9999","01/01/1900","Transfer - Intern Conversion",,"ACTIVE","Transfer",
+"TRANDEPT","12/31/9999","01/01/1900","Transfer - Department Change",,"ACTIVE","Transfer",
+"TRANEERQ","12/31/9999","01/01/1900","Transfer - Employee Request",,"ACTIVE","Transfer",
+"TRANICOT","12/31/9999","01/01/1900","Inter Company Transfer",,"ACTIVE","Transfer",
+"TRANINTL","12/31/9999","01/01/1900","International Transfer",,"ACTIVE","Transfer",
+"TRANTEMP","12/31/9999","01/01/1900","Internal Hire Temp Conversion",,"ACTIVE","Transfer",
+"TRANLATL","12/31/9999","01/01/1900","Lateral (no req)",,"ACTIVE","Transfer",
+"TRANLOCN","12/31/9999","01/01/1900","Office Location Change",,"ACTIVE","Transfer",
+"TRANMGRQ","12/31/9999","01/01/1900","Manager Request",,"ACTIVE","Transfer",
+"TRANPROM","12/31/9999","01/01/1900","Promotion",,"ACTIVE","Transfer",
+"TRANRORG","12/31/9999","01/01/1900","Reorganization",,"ACTIVE","Transfer",
+"TRANAFFL","12/31/9999","01/01/1900","Transfer to Affiliate",,"ACTIVE","Transfer",
+"TRANPERM","12/31/9999","01/01/1900","Temp to Perm",,"ACTIVE","Transfer",
+"DATACOST","12/31/9999","01/01/1900","Cost Center Change",,"ACTIVE","Transfer",
+"ADDGA","12/31/9999","01/01/1900","Add Global Assignment",,"ACTIVE","Add Global Assignment","Active"
+"ENDGA","12/31/9999","01/01/1900","End Global Assignment",,"ACTIVE","End Global Assignment","Terminated"
+"SPP","12/31/9999","01/01/1900","Start Pension Payout",,"ACTIVE","Start Pension Payout","Retired"
+"OGA","12/31/9999","01/01/1900","Set to Obsolete",,"ACTIVE","Obsolete","Discarded"
+"AGA","12/31/9999","01/01/1900","Away on Global Assignment",,"ACTIVE","Away on Global Assignment","Dormant"
+"BGA","12/31/9999","01/01/1900","Back from Global Assignment",,"ACTIVE","Back from Global Assignment","Active"

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hris-propagations PUBLIC "-//SuccessFactors, Inc.//DTD HRIS Propagation Configuration//EN" "http://svn/viewvc/svn/V4/trunk/src/com/sf/dtd/hris-propagation-configuration.dtd">
+<hris-propagations>
+<!--Pay Component type, Pay Component value, Currency, Frequency Code propagating from Pay Component 
+to Pay Component Recurring; Currency also propagating to Pay Component Non Recurring -->
+    <propagate foundation-element-id="payComponent">  
+        <field id="currency">
+            <destination field-id="currency-code" hris-element-id="payComponentRecurring"/>
+            <destination field-id="currency-code" hris-element-id="payComponentNonRecurring"/>
+        </field> 
+        <field id="payComponentType">
+			<destination field-id="pay-component-type" hris-element-id="payComponentRecurring"/>
+		</field>
+		<field id="payComponentValue">
+			<destination field-id="paycompvalue" hris-element-id="payComponentRecurring"/>
+		</field> 
+		<field id="frequencyCode">
+			<destination field-id="frequency" hris-element-id="payComponentRecurring"/>
+		</field>     
+    </propagate>
+
+    <propagate foundation-element-id="JobClassification">
+		<!-- Fields Specific to USA only -->
+        <field id="JobClassificationUSA.eeoJobGroup">
+            <destination field-id="eeo-class" hris-element-id="jobInfo"/>
+        </field>
+        <field id="JobClassificationUSA.flsaStatusUSA">
+            <destination field-id="flsa-status" hris-element-id="jobInfo"/>
+        </field>
+		<!--[EC2MDF MIGRATION] foundation-field-id [jobClassLocal.custom-long2] not found in Migrated Object. Hence making comment.--><!--<field country="USA" id="jobClassLocal.custom-long2">
+            <destination field-id="custom-long4" hris-element-id="jobInfo"/>
+        </field>
+-->
+		<!--[EC2MDF MIGRATION] foundation-field-id [jobClassLocal.custom-long5] not found in Migrated Object. Hence making comment.--><!--<field country="USA" id="jobClassLocal.custom-long5">
+            <destination field-id="shift-factor" hris-element-id="jobInfo"/>
+		</field>
+-->
+        <field id="JobClassificationUSA.eeo1JobCategory">
+            <destination field-id="eeo1-job-category" hris-element-id="jobInfo"/>
+        </field>
+        <field id="JobClassificationUSA.eeo4JobCategory">
+            <destination field-id="eeo4-job-category" hris-element-id="jobInfo"/>
+        </field>
+        <field id="JobClassificationUSA.eeo5JobCategory">
+            <destination field-id="eeo5-job-category" hris-element-id="jobInfo"/>
+        </field>
+        <field id="JobClassificationUSA.eeo6JobCategory">
+            <destination field-id="eeo6-job-category" hris-element-id="jobInfo"/>
+        </field>
+        
+		<!-- Fields Specific to DEU only -->
+		<!--[EC2MDF MIGRATION] foundation-field-id [jobClassLocal.custom-string8 , Country = DEU] not found in Migrated Object. Hence making comment.--><!--<field country="DEU" id="jobClassLocal.custom-string8">
+            <destination field-id="custom-string1" hris-element-id="jobInfo"/>
+        </field>
+-->
+		<!-- Fields Specific to USA, CAN, AUS, BRA, GBR, RUS, IRL, SAU only -->
+		<!--[EC2MDF MIGRATION] foundation-field-id [jobClassLocal.custom-long4] not found in Migrated Object. Hence making comment.--><!--<field country="USA" id="jobClassLocal.custom-long4">
+            <destination field-id="shift-code" hris-element-id="jobInfo"/>
+        </field>
+-->
+		<!--[EC2MDF MIGRATION] foundation-field-id [jobClassLocal.custom-long4] not found in Migrated Object. Hence making comment.--><!--<field country="CAN" id="jobClassLocal.custom-long4">
+            <destination field-id="shift-code" hris-element-id="jobInfo"/>
+        </field>
+-->
+		<!--[EC2MDF MIGRATION] foundation-field-id [jobClassLocal.custom-long4] not found in Migrated Object. Hence making comment.--><!--<field country="AUS" id="jobClassLocal.custom-long4">
+            <destination field-id="shift-code" hris-element-id="jobInfo"/>
+        </field>
+-->
+		<!--[EC2MDF MIGRATION] foundation-field-id [jobClassLocal.custom-long4] not found in Migrated Object. Hence making comment.--><!--<field country="BRA" id="jobClassLocal.custom-long4">
+            <destination field-id="shift-code" hris-element-id="jobInfo"/>
+        </field>
+-->
+		<!--[EC2MDF MIGRATION] foundation-field-id [jobClassLocal.custom-long4] not found in Migrated Object. Hence making comment.--><!--<field country="GBR" id="jobClassLocal.custom-long4">
+            <destination field-id="shift-code" hris-element-id="jobInfo"/>
+        </field>
+-->
+		<!--[EC2MDF MIGRATION] foundation-field-id [jobClassLocal.custom-long4 , Country = RUS] not found in Migrated Object. Hence making comment.--><!--<field country="RUS" id="jobClassLocal.custom-long4">
+            <destination field-id="shift-code" hris-element-id="jobInfo"/>
+        </field>
+-->
+		<!--[EC2MDF MIGRATION] foundation-field-id [jobClassLocal.custom-long4 , Country = IRL] not found in Migrated Object. Hence making comment.--><!--<field country="IRL" id="jobClassLocal.custom-long4">
+            <destination field-id="shift-code" hris-element-id="jobInfo"/>
+        </field>
+-->
+		<!--[EC2MDF MIGRATION] foundation-field-id [jobClassLocal.custom-long4 , Country = SAU] not found in Migrated Object. Hence making comment.--><!--<field country="SAU" id="jobClassLocal.custom-long4">
+            <destination field-id="shift-code" hris-element-id="jobInfo"/>
+        </field>
+-->
+		<!-- Fields used in all Countries but specific to each Country -->
+        <!--[EC2MDF MIGRATION] CSF field added for: [jobClassLocal.genericString1], with Field-Id: [JobClassificationUSA.localJobTitle], CountryCode: [USA]--><field id="JobClassificationUSA.localJobTitle">
+            <destination field-id="local-job-title" hris-element-id="jobInfo"/>
+        </field>
+<!--[EC2MDF MIGRATION] CSF field added for: [jobClassLocal.genericString1], with Field-Id: [JobClassificationAUS.ascoCode], CountryCode: [AUS]-->
+<field id="JobClassificationAUS.ascoCode">
+            <destination field-id="local-job-title" hris-element-id="jobInfo"/>
+        </field>
+<!--[EC2MDF MIGRATION] CSF field added for: [jobClassLocal.genericString1], with Field-Id: [JobClassificationFRA.inseeCode], CountryCode: [FRA]-->
+<field id="JobClassificationFRA.inseeCode">
+            <destination field-id="local-job-title" hris-element-id="jobInfo"/>
+        </field>
+<!--[EC2MDF MIGRATION] CSF field added for: [jobClassLocal.genericString1], with Field-Id: [JobClassificationBRA.occupationalCode], CountryCode: [BRA]-->
+<field id="JobClassificationBRA.occupationalCode">
+            <destination field-id="local-job-title" hris-element-id="jobInfo"/>
+        </field>
+<!--[EC2MDF MIGRATION] CSF field added for: [jobClassLocal.genericString1], with Field-Id: [JobClassificationCAN.occupationalClassification], CountryCode: [CAN]-->
+<field id="JobClassificationCAN.occupationalClassification">
+            <destination field-id="local-job-title" hris-element-id="jobInfo"/>
+        </field>
+<!--[EC2MDF MIGRATION] Propagation Configuration Replaced: CountryCode NOT found for the CSF foundation-field-id [jobClassLocal.genericString1].-->
+<!--<field id="jobClassLocal.genericString1">
+            <destination field-id="local-job-title" hris-element-id="jobInfo"/>
+        </field>
+-->
+		<!--[EC2MDF MIGRATION] Propagation Configuration Replaced: CountryCode NOT found for the CSF foundation-field-id [jobClassLocal.custom-string5].--><!--<field id="jobClassLocal.custom-string5">
+            <destination field-id="standard-hours" hris-element-id="jobInfo"/>
+        </field>
+-->
+        <!--Sample mapping for Custom Fields 		
+        <field id="jobClassLocal.custom-long1">  
+            <destination hris-element-id="jobInfo" field-id="custom-long2"/>
+        </field>
+        <field id="jobClassLocal.custom-long3"> <destination hris-element-id="jobInfo" field-id="custom-long15"/>
+        </field> 
+                -->
+        <field id="payGrade">
+            <destination field-id="pay-grade" hris-element-id="jobInfo"/>
+        </field>
+        <field id="name">
+            <destination field-id="job-title" hris-element-id="jobInfo"/>
+        </field>
+        <field id="workerCompCode">
+            <destination field-id="custom-string8" hris-element-id="jobInfo"/>
+        </field>
+        <field id="regularTemporary">
+            <destination field-id="regular-temp" hris-element-id="jobInfo"/>
+        </field>	
+        <!--[EC2MDF MIGRATION] foundation-field-id [custom-string2] not found in Migrated Object. Hence making comment.--><!--<field id="custom-string2">
+            <destination field-id="custom-long1" hris-element-id="jobInfo"/>
+        </field>
+-->
+        <field id="standardWeeklyHours">
+            <destination field-id="standard-hours" hris-element-id="jobInfo"/>
+        </field>         
+        <field id="defaultEmployeeClass">
+            <destination field-id="employee-class" hris-element-id="jobInfo"/>
+        </field>
+        <field id="fulltimeEmployee">
+            <destination field-id="is-fulltime-employee" hris-element-id="jobInfo"/>
+        </field>
+    </propagate>
+
+<!-- Changed in b1505 -->
+    <propagate foundation-element-id="LegalEntity"> 
+        <field id="standardWeeklyHours"> 
+            <destination field-id="standard-hours" hris-element-id="jobInfo"/> 
+        </field> 
+        <field id="defaultLocation">
+            <destination field-id="location" hris-element-id="jobInfo"/>
+        </field>	
+        <field id="countryOfRegistration"> 
+            <destination field-id="country-of-company" hris-element-id="jobInfo"/> 
+        </field> 
+    </propagate> 
+    
+    <propagate foundation-element-id="location">                       
+        <field id="timezone">
+            <destination field-id="timezone" hris-element-id="jobInfo"/>
+        </field>
+        <field id="standardHours"> 
+            <destination field-id="standard-hours" hris-element-id="jobInfo"/>
+        </field>           
+    </propagate> 
+    
+    
+    <!-- Changed in b1505 -->
+    <propagation-mapping foundation-field="payComponent.externalCode" hris-field="payComponentRecurring.pay-component"/> 
+    <propagation-mapping foundation-field="payComponent.externalCode" hris-field="payComponentNonRecurring.pay-component-code"/>
+    <propagation-mapping foundation-field="JobClassification.externalCode" hris-field="jobInfo.job-code"/> 
+    <propagation-mapping foundation-field="LegalEntity.externalCode" hris-field="jobInfo.company"/> 
+    <propagation-mapping foundation-field="location.externalCode" hris-field="jobInfo.location"/>
+</hris-propagations>
