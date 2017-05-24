@@ -42,7 +42,7 @@
         <label xml:lang="nl-NL">Adresregel 1</label>
         <label xml:lang="pl-PL">Wiersz adresu 1</label>
         <label xml:lang="pt-BR">Linha de endereço 1</label>
-        <label xml:lang="pt-PT">Linha de endereço 1</label>
+        <label xml:lang="pt-PT">Linha de endereço 1.</label>
         <label xml:lang="ro-RO">Linie adresă 1</label>
         <label xml:lang="ru-RU">Строка адреса 1</label>
         <label xml:lang="sk-SK">Riadok adresy 1</label>
@@ -74,7 +74,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -118,7 +118,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -519,7 +519,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -563,7 +563,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -2034,7 +2034,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -2078,7 +2078,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -2391,7 +2391,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -2435,7 +2435,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -3016,7 +3016,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -3060,7 +3060,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -3775,7 +3775,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -3819,7 +3819,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -5647,7 +5647,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -5691,7 +5691,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -6184,7 +6184,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -6228,7 +6228,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -6541,7 +6541,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -6585,7 +6585,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -6898,7 +6898,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -6942,7 +6942,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -7255,7 +7255,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -7299,7 +7299,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -7928,7 +7928,7 @@
         <label xml:lang="es-MX">Dirección 1</label>
         <label xml:lang="fi-FI">Osoite 1</label>
         <label xml:lang="fr-CA">Adresse 1</label>
-        <label xml:lang="fr-FR">Adresse 1</label>
+        <label xml:lang="fr-FR">Adresse&#160;1</label>
         <label xml:lang="he-IL">כתובת 1</label>
         <label xml:lang="hi-IN">पता 1</label>
         <label xml:lang="hr-HR">Adresa 1</label>
@@ -7972,7 +7972,7 @@
         <label xml:lang="es-MX">Dirección 2</label>
         <label xml:lang="fi-FI">Osoite 2</label>
         <label xml:lang="fr-CA">Adresse 2</label>
-        <label xml:lang="fr-FR">Adresse 2</label>
+        <label xml:lang="fr-FR">Adresse&#160;2</label>
         <label xml:lang="he-IL">כתובת 2</label>
         <label xml:lang="hi-IN">पता 2</label>
         <label xml:lang="hr-HR">Adresa 2</label>
@@ -8016,7 +8016,7 @@
         <label xml:lang="es-MX">Dirección 3</label>
         <label xml:lang="fi-FI">Osoite 3</label>
         <label xml:lang="fr-CA">Adresse 3</label>
-        <label xml:lang="fr-FR">Adresse 3</label>
+        <label xml:lang="fr-FR">Adresse&#160;3</label>
         <label xml:lang="he-IL">כתובת 3</label>
         <label xml:lang="hi-IN">पता 3</label>
         <label xml:lang="hr-HR">Adresa 3</label>
@@ -8060,7 +8060,7 @@
         <label xml:lang="es-MX">Dirección 4</label>
         <label xml:lang="fi-FI">Osoite 4</label>
         <label xml:lang="fr-CA">Adresse 4</label>
-        <label xml:lang="fr-FR">Adresse 4</label>
+        <label xml:lang="fr-FR">Adresse&#160;4</label>
         <label xml:lang="he-IL">כתובת 4</label>
         <label xml:lang="hi-IN">पता 4</label>
         <label xml:lang="hr-HR">Adresa 4</label>
@@ -8417,7 +8417,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -8461,7 +8461,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -9398,7 +9398,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -9442,7 +9442,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -10067,7 +10067,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -10111,7 +10111,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -11226,7 +11226,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -11270,7 +11270,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -11583,7 +11583,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -11627,7 +11627,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -12163,7 +12163,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -12207,7 +12207,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -12520,7 +12520,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -12921,7 +12921,7 @@
         <label xml:lang="es-MX">Dirección 1</label>
         <label xml:lang="fi-FI">Osoite 1</label>
         <label xml:lang="fr-CA">Adresse 1</label>
-        <label xml:lang="fr-FR">Adresse 1</label>
+        <label xml:lang="fr-FR">Adresse&#160;1</label>
         <label xml:lang="he-IL">כתובת 1</label>
         <label xml:lang="hi-IN">पता 1</label>
         <label xml:lang="hr-HR">Adresa 1</label>
@@ -12965,7 +12965,7 @@
         <label xml:lang="es-MX">Dirección 2</label>
         <label xml:lang="fi-FI">Osoite 2</label>
         <label xml:lang="fr-CA">Adresse 2</label>
-        <label xml:lang="fr-FR">Adresse 2</label>
+        <label xml:lang="fr-FR">Adresse&#160;2</label>
         <label xml:lang="he-IL">כתובת 2</label>
         <label xml:lang="hi-IN">पता 2</label>
         <label xml:lang="hr-HR">Adresa 2</label>
@@ -13009,7 +13009,7 @@
         <label xml:lang="es-MX">Dirección 3</label>
         <label xml:lang="fi-FI">Osoite 3</label>
         <label xml:lang="fr-CA">Adresse 3</label>
-        <label xml:lang="fr-FR">Adresse 3</label>
+        <label xml:lang="fr-FR">Adresse&#160;3</label>
         <label xml:lang="he-IL">כתובת 3</label>
         <label xml:lang="hi-IN">पता 3</label>
         <label xml:lang="hr-HR">Adresa 3</label>
@@ -13053,7 +13053,7 @@
         <label xml:lang="es-MX">Dirección 4</label>
         <label xml:lang="fi-FI">Osoite 4</label>
         <label xml:lang="fr-CA">Adresse 4</label>
-        <label xml:lang="fr-FR">Adresse 4</label>
+        <label xml:lang="fr-FR">Adresse&#160;4</label>
         <label xml:lang="he-IL">כתובת 4</label>
         <label xml:lang="hi-IN">पता 4</label>
         <label xml:lang="hr-HR">Adresa 4</label>
@@ -13410,7 +13410,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -13454,7 +13454,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -14572,7 +14572,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -14616,7 +14616,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -15197,7 +15197,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -15241,7 +15241,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -16181,7 +16181,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -16225,7 +16225,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -17074,7 +17074,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -17118,7 +17118,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -17475,7 +17475,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -17519,7 +17519,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -18188,7 +18188,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -18232,7 +18232,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -18812,7 +18812,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -19925,7 +19925,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -19969,7 +19969,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -21664,7 +21664,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -21708,7 +21708,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -22421,7 +22421,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -23003,7 +23003,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -23047,7 +23047,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -23627,7 +23627,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -23671,7 +23671,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -24339,7 +24339,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -24383,7 +24383,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -25682,7 +25682,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -25726,7 +25726,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -27158,7 +27158,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -27202,7 +27202,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -27471,7 +27471,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -27515,7 +27515,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -27828,7 +27828,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -27872,7 +27872,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -29881,7 +29881,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -29925,7 +29925,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -30194,7 +30194,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -30238,7 +30238,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -30594,7 +30594,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -30638,7 +30638,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -32016,7 +32016,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -32060,7 +32060,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -33397,7 +33397,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -33441,7 +33441,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -34559,7 +34559,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -34603,7 +34603,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -34915,7 +34915,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -34959,7 +34959,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -35272,7 +35272,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -35316,7 +35316,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -36698,7 +36698,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -36742,7 +36742,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -37055,7 +37055,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -37099,7 +37099,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -38883,7 +38883,7 @@
         <label xml:lang="es-MX">Calle 2</label>
         <label xml:lang="fi-FI">Katu 2</label>
         <label xml:lang="fr-CA">Rue 2</label>
-        <label xml:lang="fr-FR">Rue 2</label>
+        <label xml:lang="fr-FR">Rue&#160;2</label>
         <label xml:lang="he-IL">רחוב 2</label>
         <label xml:lang="hi-IN">गली 2</label>
         <label xml:lang="hr-HR">Ulica 2</label>
@@ -40088,7 +40088,7 @@
         <label xml:lang="es-MX">Línea de dirección 2</label>
         <label xml:lang="fi-FI">Osoiterivi 2</label>
         <label xml:lang="fr-CA">Ligne d'adresse 2</label>
-        <label xml:lang="fr-FR">Complément d'adresse 1</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;1</label>
         <label xml:lang="he-IL">שורת כתובת 2</label>
         <label xml:lang="hi-IN">पता पंक्ति 2</label>
         <label xml:lang="hr-HR">Drugi red adrese</label>
@@ -40132,7 +40132,7 @@
         <label xml:lang="es-MX">Línea de dirección 3</label>
         <label xml:lang="fi-FI">Osoiterivi 3</label>
         <label xml:lang="fr-CA">Ligne d'adresse 3</label>
-        <label xml:lang="fr-FR">Complément d'adresse 2</label>
+        <label xml:lang="fr-FR">Complément d'adresse&#160;2</label>
         <label xml:lang="he-IL">שורת כתובת 3</label>
         <label xml:lang="hi-IN">पता पंक्ति 3</label>
         <label xml:lang="hr-HR">Treći red adrese</label>
@@ -40874,3 +40874,4 @@
     </hris-element>
   </country>
 </country-specific-fields>
+
